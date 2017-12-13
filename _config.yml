@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DMR Codeplugs"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Andre"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : http://DMRcodeplugs.cf # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DMRcodeplugs.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,21 +78,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "DMRcodeplugs"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "World"
+  location         : "Location"
   employer         :
-  googlescholar    : "http://DMRcodeplugs.cf"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  uri              : "http://DMRcodeplugs.cf"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DMRcodeplugs"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
